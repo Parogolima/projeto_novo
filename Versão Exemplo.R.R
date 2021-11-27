@@ -3,3 +3,6 @@
 # ver_3
 # texto
 library(tidyverse)
+mutate()
+rename()
+Filter()
